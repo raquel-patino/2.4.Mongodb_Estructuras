@@ -1,0 +1,60 @@
+[{
+  "_id": "cliente001",
+  "nom": "Maria López",
+  "adreça_postal": "Carrer de les Flors, 25, 08001 Barcelona",
+  "telefon": "+34 612 345 678",
+  "correu_electronic": "maria.lopez@example.com",
+  "data_registre": "2023-05-14",
+  "ventas": [
+    "ullera005"
+  ],
+  "id_cliente_recomendacion": "cliente003"
+},
+{
+  "_id": "cliente002",
+  "nom": "Joan Puig",
+  "adreça_postal": "Avinguda Diagonal, 401, 08008 Barcelona",
+  "telefon": "+34 623 456 789",
+  "correu_electronic": "joan.puig@example.com",
+  "data_registre": "2023-06-20",
+  "ventas": [
+    "ullera003",
+    "ullera006"
+  ]
+},
+{
+  "_id": "cliente003",
+  "nom": "Anna Vidal",
+  "adreça_postal": "Carrer Major, 18, 43001 Tarragona",
+  "telefon": "+34 634 567 890",
+  "correu_electronic": "anna.vidal@example.com",
+  "data_registre": "2023-07-10",
+  "ventas": [
+    "ullera001",
+    "ullera002"
+  ],
+  "id_cliente_recomendacion": "cliente005"
+},
+{
+  "_id": "cliente005",
+  "nom": "Carla Riera",
+  "adreça_postal": "Carrer del Nord, 45, 25002 Lleida",
+  "telefon": "+34 656 789 012",
+  "correu_electronic": "carla.riera@example.com",
+  "data_registre": "2023-09-12",
+  "ventas": [
+    "ullera004",
+    "ullera008"
+  ]
+},
+{
+  "_id": "cliente004",
+  "nom": "Pere Serra",
+  "adreça_postal": "Plaça Catalunya, 3, 17002 Girona",
+  "telefon": "+34 645 678 901",
+  "correu_electronic": "pere.serra@example.com",
+  "data_registre": "2023-08-05",
+  "ventas": [
+    "ullera007"
+  ]
+}]

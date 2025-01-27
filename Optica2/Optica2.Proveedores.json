@@ -1,0 +1,48 @@
+[{
+  "_id": "proveidor001",
+  "nom": "Lents Òptiques Global S.L.",
+  "adreça": {
+    "carrer": "Passeig de Gràcia",
+    "numero": 45,
+    "pis": 3,
+    "porta": "A",
+    "ciutat": "Barcelona",
+    "codi_postal": "08007",
+    "país": "Espanya"
+  },
+  "telefon": "+34 934 123 456",
+  "fax": "+34 934 123 457",
+  "NIF": "B12345678"
+},
+{
+  "_id": "proveidor002",
+  "nom": "Cristalls de Precisió S.A.",
+  "adreça": {
+    "carrer": "Carrer dels Cristalls",
+    "numero": 120,
+    "pis": 1,
+    "porta": "B",
+    "ciutat": "Girona",
+    "codi_postal": "17003",
+    "país": "Espanya"
+  },
+  "telefon": "+34 972 456 789",
+  "fax": "+34 972 456 788",
+  "NIF": "A23456789"
+},
+{
+  "_id": "proveidor003",
+  "nom": "Lents Progressives i Més",
+  "adreça": {
+    "carrer": "Carrer del Vidre",
+    "numero": 50,
+    "pis": 2,
+    "porta": "C",
+    "ciutat": "València",
+    "codi_postal": "46020",
+    "país": "Espanya"
+  },
+  "telefon": "+34 963 987 654",
+  "fax": "+34 963 987 653",
+  "NIF": "B34567890"
+}]

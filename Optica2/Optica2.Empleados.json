@@ -1,0 +1,15 @@
+[{
+  "_id": "empleat001",
+  "nom": "Anna",
+  "cognom": "Garcia"
+},
+{
+  "_id": "empleat002",
+  "nom": "Joan",
+  "cognom": "Martínez"
+},
+{
+  "_id": "empleat003",
+  "nom": "Carla",
+  "cognom": "Fernández"
+}]

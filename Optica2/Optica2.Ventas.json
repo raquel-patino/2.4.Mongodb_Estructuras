@@ -1,0 +1,128 @@
+[{
+  "_id": "venta001",
+  "id_gafa": "ullera001",
+  "color_muntura": "negre",
+  "graduacio_vidres": {
+    "esquerre": -1.5,
+    "dret": -1.25
+  },
+  "color_vidres": {
+    "esquerre": "transparent",
+    "dret": "transparent"
+  },
+  "id_cliente": "cliente003",
+  "id_empleado": "empleat001",
+  "fecha_y_hora": "2025-01-21T10:30:00"
+},
+{
+  "_id": "venta004",
+  "id_gafa": "ullera004",
+  "graduacio_vidres": {
+    "esquerre": -0.75,
+    "dret": -1
+  },
+  "color_muntura": "negre",
+  "color_vidres": {
+    "esquerre": "transparent",
+    "dret": "transparent"
+  },
+  "id_cliente": "cliente005",
+  "id_empleado": "empleat003",
+  "fecha_y_hora": "2025-01-10T17:30:00"
+},
+{
+  "_id": "venta005",
+  "id_gafa": "ullera005",
+  "graduacio_vidres": {
+    "esquerre": -3,
+    "dret": -2.75
+  },
+  "color_muntura": "or",
+  "color_vidres": {
+    "esquerre": "transparent",
+    "dret": "transparent"
+  },
+  "id_cliente": "cliente001",
+  "id_empleado": "empleat002",
+  "fecha_y_hora": "2024-11-10T17:30:00"
+},
+{
+  "_id": "venta008",
+  "id_gafa": "ullera008",
+  "graduacio_vidres": {
+    "esquerre": -1,
+    "dret": -0.5
+  },
+  "color_muntura": "negre",
+  "color_vidres": {
+    "esquerre": "transparent",
+    "dret": "transparent"
+  },
+  "id_cliente": "cliente005",
+  "id_empleado": "empleat002",
+  "fecha_y_hora": "2024-06-21T18:30:00"
+},
+{
+  "_id": "venta003",
+  "id_gafa": "ullera003",
+  "graduacio_vidres": {
+    "esquerre": 0,
+    "dret": 0
+  },
+  "color_muntura": "vermell",
+  "color_vidres": {
+    "esquerre": "marró fosc",
+    "dret": "marró fosc"
+  },
+  "id_cliente": "cliente002",
+  "id_empleado": "empleat001",
+  "fecha_y_hora": "2024-10-08T14:00:00"
+},
+{
+  "_id": "venta007",
+  "id_gafa": "ullera007",
+  "graduacio_vidres": {
+    "esquerre": 0,
+    "dret": 0
+  },
+  "color_muntura": "blau",
+  "color_vidres": {
+    "esquerre": "blau clar",
+    "dret": "blau clar"
+  },
+  "id_cliente": "cliente004",
+  "id_empleado": "empleat001",
+  "fecha_y_hora": "2024-05-17T09:30:00"
+},
+{
+  "_id": "venta002",
+  "id_gafa": "ullera002",
+  "graduacio_vidres": {
+    "esquerre": -2,
+    "dret": -2.5
+  },
+  "color_muntura": "platejat",
+  "color_vidres": {
+    "esquerre": "transparent",
+    "dret": "transparent"
+  },
+  "id_cliente": "cliente003",
+  "id_empleado": "empleat002",
+  "fecha_y_hora": "2024-02-16T09:30:00"
+},
+{
+  "_id": "venta006",
+  "id_gafa": "ullera006",
+  "graduacio_vidres": {
+    "esquerre": -1.25,
+    "dret": -1.5
+  },
+  "color_muntura": "gris",
+  "color_vidres": {
+    "esquerre": "verd fosc",
+    "dret": "verd fosc"
+  },
+  "id_cliente": "cliente002",
+  "id_empleado": "empleat003",
+  "fecha_y_hora": "2025-01-21T12:30:00"
+}]

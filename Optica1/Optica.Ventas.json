@@ -1,0 +1,56 @@
+[{
+  "_id": "venta001",
+  "id_gafa": "ullera001",
+  "id_cliente": "cliente003",
+  "id_empleado": "empleat001",
+  "fecha_y_hora": "2025-01-21T10:30:00"
+},
+{
+  "_id": "venta004",
+  "id_gafa": "ullera004",
+  "id_cliente": "cliente005",
+  "id_empleado": "empleat003",
+  "fecha_y_hora": "2025-01-10T17:30:00"
+},
+{
+  "_id": "venta005",
+  "id_gafa": "ullera005",
+  "id_cliente": "cliente001",
+  "id_empleado": "empleat002",
+  "fecha_y_hora": "2024-11-10T17:30:00"
+},
+{
+  "_id": "venta008",
+  "id_gafa": "ullera008",
+  "id_cliente": "cliente005",
+  "id_empleado": "empleat002",
+  "fecha_y_hora": "2024-06-21T18:30:00"
+},
+{
+  "_id": "venta003",
+  "id_gafa": "ullera003",
+  "id_cliente": "cliente002",
+  "id_empleado": "empleat001",
+  "fecha_y_hora": "2024-10-08T14:00:00"
+},
+{
+  "_id": "venta007",
+  "id_gafa": "ullera007",
+  "id_cliente": "cliente004",
+  "id_empleado": "empleat001",
+  "fecha_y_hora": "2024-05-17T09:30:00"
+},
+{
+  "_id": "venta002",
+  "id_gafa": "ullera002",
+  "id_cliente": "cliente003",
+  "id_empleado": "empleat002",
+  "fecha_y_hora": "2024-02-16T09:30:00"
+},
+{
+  "_id": "venta006",
+  "id_gafa": "ullera006",
+  "id_cliente": "cliente002",
+  "id_empleado": "empleat003",
+  "fecha_y_hora": "2025-01-21T12:30:00"
+}]

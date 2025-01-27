@@ -1,0 +1,94 @@
+[{
+  "_id": "ullera001",
+  "marca": "Ray-Ban",
+  "tipus_muntura": "flotant",
+  "preu": 150,
+  "nombre_proveedor": "Lents Òptiques Global S.L.",
+  "id_cliente": [
+    "cliente003"
+  ]
+},
+{
+  "_id": "ullera002",
+  "marca": "Oakley",
+  "tipus_muntura": "metálica",
+  "preu": 200,
+  "nombre_proveedor": "Lents Òptiques Global S.L.",
+  "id_cliente": [
+    "cliente003"
+  ]
+},
+{
+  "_id": "ullera003",
+  "marca": "Prada",
+  "tipus_muntura": "pasta",
+  "preu": 220,
+  "nombre_proveedor": "Cristalls de Precisió S.A.",
+  "id_cliente": [
+    "cliente002"
+  ]
+},
+{
+  "_id": "ullera004",
+  "marca": "Gucci",
+  "tipus_muntura": "pasta",
+  "preu": 300,
+  "nombre_proveedor": "Cristalls de Precisió S.A.",
+  "id_cliente": [
+    "cliente005"
+  ]
+},
+{
+  "_id": "ullera005",
+  "marca": "Versace",
+  "tipus_muntura": "flotant",
+  "preu": 350,
+  "nombre_proveedor": "Cristalls de Precisió S.A.",
+  "id_cliente": [
+    "cliente001"
+  ]
+},
+{
+  "_id": "ullera006",
+  "marca": "Persol",
+  "tipus_muntura": "metálica",
+  "preu": 180,
+  "nombre_proveedor": "Cristalls de Precisió S.A.",
+  "id_cliente": [
+    "cliente002"
+  ]
+},
+{
+  "_id": "ullera007",
+  "marca": "Hawkers",
+  "tipus_muntura": "pasta",
+  "preu": 70,
+  "nombre_proveedor": "Lents Progressives i Més",
+  "id_cliente": [
+    "cliente004"
+  ]
+},
+{
+  "_id": "ullera008",
+  "marca": "Tom Ford",
+  "tipus_muntura": "metálica",
+  "preu": 250,
+  "nombre_proveedor": "Lents Progressives i Més",
+  "id_cliente": [
+    "cliente004"
+  ]
+},
+{
+  "_id": "ullera009",
+  "marca": "Carrera",
+  "tipus_muntura": "flotant",
+  "preu": 290,
+  "nombre_proveedor": "Lents Progressives i Més"
+},
+{
+  "_id": "ullera010",
+  "marca": "Chanel",
+  "tipus_muntura": "pasta",
+  "preu": 400,
+  "nombre_proveedor": "Lents Progressives i Més"
+}]
