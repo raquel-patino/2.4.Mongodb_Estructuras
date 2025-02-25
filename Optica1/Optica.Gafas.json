@@ -1,150 +1,16 @@
 [{
-  "_id": "ullera003",
-  "marca": "Prada",
-  "graduacio_vidres": {
-    "esquerre": 0,
-    "dret": 0
-  },
-  "tipus_muntura": "pasta",
-  "color_muntura": "vermell",
-  "color_vidres": {
-    "esquerre": "marró fosc",
-    "dret": "marró fosc"
-  },
-  "preu": 220
-},
-{
-  "_id": "ullera007",
-  "marca": "Hawkers",
-  "graduacio_vidres": {
-    "esquerre": 0,
-    "dret": 0
-  },
-  "tipus_muntura": "pasta",
-  "color_muntura": "blau",
-  "color_vidres": {
-    "esquerre": "blau clar",
-    "dret": "blau clar"
-  },
-  "preu": 70
-},
-{
-  "_id": "ullera009",
-  "marca": "Carrera",
-  "graduacio_vidres": {
-    "esquerre": -2.25,
-    "dret": -2.5
-  },
-  "tipus_muntura": "flotant",
-  "color_muntura": "daurat",
-  "color_vidres": {
-    "esquerre": "gris fosc",
-    "dret": "gris fosc"
-  },
-  "preu": 290
-},
-{
-  "_id": "ullera010",
-  "marca": "Chanel",
-  "graduacio_vidres": {
-    "esquerre": -1.75,
-    "dret": -1.75
-  },
-  "tipus_muntura": "pasta",
-  "color_muntura": "blanc",
-  "color_vidres": {
-    "esquerre": "rosat",
-    "dret": "rosat"
-  },
-  "preu": 400
-},
-{
-  "_id": "ullera002",
+  "_id": "2",
   "marca": "Oakley",
-  "graduacio_vidres": {
-    "esquerre": -2,
-    "dret": -2.5
+  "_id_proveedor": "1",
+  "graduacion": {
+    "izq": 2.0,
+    "der": 1.0
   },
-  "tipus_muntura": "metálica",
-  "color_muntura": "platejat",
-  "color_vidres": {
-    "esquerre": "transparent",
-    "dret": "transparent"
+  "tipo_montura": "pasta",
+  "color_montura": "negro",
+  "color_vidrios": {
+    "izq": "Transparente",
+    "der": "Transparente"
   },
-  "preu": 200
-},
-{
-  "_id": "ullera005",
-  "marca": "Versace",
-  "graduacio_vidres": {
-    "esquerre": -3,
-    "dret": -2.75
-  },
-  "tipus_muntura": "flotant",
-  "color_muntura": "or",
-  "color_vidres": {
-    "esquerre": "transparent",
-    "dret": "transparent"
-  },
-  "preu": 350
-},
-{
-  "_id": "ullera006",
-  "marca": "Persol",
-  "graduacio_vidres": {
-    "esquerre": -1.25,
-    "dret": -1.5
-  },
-  "tipus_muntura": "metálica",
-  "color_muntura": "gris",
-  "color_vidres": {
-    "esquerre": "verd fosc",
-    "dret": "verd fosc"
-  },
-  "preu": 180
-},
-{
-  "_id": "ullera001",
-  "marca": "Ray-Ban",
-  "graduacio_vidres": {
-    "esquerre": -1.5,
-    "dret": -1.25
-  },
-  "tipus_muntura": "flotant",
-  "color_muntura": "negre",
-  "color_vidres": {
-    "esquerre": "transparent",
-    "dret": "transparent"
-  },
-  "preu": 150
-},
-{
-  "_id": "ullera004",
-  "marca": "Gucci",
-  "graduacio_vidres": {
-    "esquerre": -0.75,
-    "dret": -1
-  },
-  "tipus_muntura": "pasta",
-  "color_muntura": "negre",
-  "color_vidres": {
-    "esquerre": "transparent",
-    "dret": "transparent"
-  },
-  "preu": 300
-},
-{
-  "_id": "ullera008",
-  "marca": "Tom Ford",
-  "graduacio_vidres": {
-    "esquerre": -1,
-    "dret": -0.5
-  },
-  "tipus_muntura": "metálica",
-  "color_muntura": "negre",
-  "color_vidres": {
-    "esquerre": "transparent",
-    "dret": "transparent"
-  },
-  "preu": 250
+  "precio": 150.0
 }]
